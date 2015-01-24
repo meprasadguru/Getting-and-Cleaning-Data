@@ -43,7 +43,8 @@ colnames(final_data) <- new_var_name
 
 * The data was grouped by subject and activity labels.
 * Summarise_each was used on the grouped data to get the average of each variable.
-
+* Final tidy data was stored in the variable "tidy_data"
+* The tidy data was written to "tidydata.txt"
 
 ###NOTES
 * A full description about the data is available at the site where the data was obtained
